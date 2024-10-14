@@ -79,7 +79,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text="✰ 𝖡ᴧ፝֠֩ʙꭎ ✰", url="https://t.me/WORLD_ALPHA",
             ),
             InlineKeyboardButton(
-                text="✰ 𝛅ᴏ፝֠֩𝛈ᴧ ✰", url="https://t.me/+Q25anL0Ckuk5NzM1",
+                text="✰ 𝛅ᴏ፝֠֩𝛈ᴧ ✰", url="https://t.me/+Oh7OmMhAPKY5YTc9",
             )
         ],
          [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -102,7 +102,7 @@ def stream_markup(_, videoid, chat_id):
                 text="✰ 𝖡ᴧ፝֠֩ʙꭎ ✰", url="https://t.me/WORLD_ALPHA",
             ),
             InlineKeyboardButton(
-                text="✰ 𝛅ᴏ፝֠֩𝛈ᴧ ✰", url="https://t.me/+Q25anL0Ckuk5NzM1",
+                text="✰ 𝛅ᴏ፝֠֩𝛈ᴧ ✰", url="https://t.me/+Oh7OmMhAPKY5YTc9",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
