@@ -8,7 +8,7 @@
 <h1 align="center"
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+POWERED+BY+VILLAIN+🚩+🍁"></b></h3>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝐏𝐎𝐖𝐄𝐑𝐄𝐃+𝐁𝐘+𝐕𝐈𝐋𝐋𝐀𝐈𝐍+🚩+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>𝐕𝐈𝐋𝐋𝐀𝐈𝐍 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓𝐒</b></h1>
 <p align="center"><a href="https://iamakki001"><img src="" width="400"></a></p>
