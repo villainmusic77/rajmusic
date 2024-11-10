@@ -17,7 +17,6 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAMPURVI&repo=SONALI_MUSIC&theme=flag-india)
 
-[![GIF](https://github.com/TEAMPURVI/SONALI_MUSIC/blob/main/TEAMPURVI.gif)](https://github.com/TEAMPURVI)
 </p>
 VILLAIN
 <p align="center">
