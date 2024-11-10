@@ -10,9 +10,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+POWERED+BY+VILLAIN+🚩+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center"><b>𝐓ᴇᴀᴍ 𝐏ᴜʀᴠɪ 𝐁ᴏᴛs</b></h1>
-<p align="center"><a href="https://ll_ALPHA_BABY_lll"><img src="https://telegra.ph/file/207afbc175113d14d1231.jpg" width="400"></a></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center"><b>𝐕𝐈𝐋𝐋𝐀𝐈𝐍 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓𝐒</b></h1>
+<p align="center"><a href="https://iamakki001"><img src="https://telegra.ph/file/207afbc175113d14d1231.jpg" width="400"></a></p>
+<img src="https://github.com/Iamvillain77/Iamvillain77/blob/5e924dae5dbb03bd83557c2e517621d9ced64f93/Picsart_24-10-10_16-01-53-075.jpg">
 
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAMPURVI&repo=SONALI_MUSIC&theme=flag-india)
