@@ -13,12 +13,8 @@
 <h1 align="center"><b>𝐕𝐈𝐋𝐋𝐀𝐈𝐍 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓𝐒</b></h1>
 <p align="center"><a href="https://iamakki001"><img src="" width="400"></a></p>
 <img src="https://github.com/Iamvillain77/Iamvillain77/blob/5e924dae5dbb03bd83557c2e517621d9ced64f93/Picsart_24-10-10_16-01-53-075.jpg">
-
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAMPURVI&repo=SONALI_MUSIC&theme=flag-india)
-
 </p>
-VILLAIN
+𝐕𝐈𝐋𝐋𝐀𝐈𝐍 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓𝐒
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
 </p>
