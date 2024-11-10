@@ -18,11 +18,6 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAMPURVI&repo=SONALI_MUSIC&theme=flag-india)
 
 [![GIF](https://github.com/TEAMPURVI/SONALI_MUSIC/blob/main/TEAMPURVI.gif)](https://github.com/TEAMPURVI)
-   [![ALPHA](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")
-
-
-GO TO [RELOAD.PY](https://github.com/TEAMPURVI/SONALI_MUSIC/blob/master/SONALI/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
-
 </p>
 VILLAIN
 <p align="center">
